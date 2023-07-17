@@ -6,6 +6,8 @@ type AddressType = {
 type UserType = {
   // ПРИДЕТСЯ САМОМУ)
 };
+console.log(1);
+
 
 type UserListPropsType = {
   users: UserType; // ПО МОЕМУ ЧЕГО-ТО НЕ ХВАТАЕТ...
